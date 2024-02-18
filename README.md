@@ -9,12 +9,6 @@ Welcome to the Xindus Assignment repository! This backend application manages wi
 ### Prerequisites
 - JDK version 17 or higher
 - Maven
- 
-### Installation
-
-Step 1: Clone the repository to your local machine:
-- git clone https://github.com/mozammilanwar/Xindus_Assignment.git
-
 
 ### Configuration
 Step1:- Database Configuration:
